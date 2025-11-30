@@ -1,0 +1,5 @@
+{
+  "name": "MonoHome IoT",
+  "description": "A stark, minimalist black and white smart home controller powered by Gemini for intelligent device management.",
+  "requestFramePermissions": []
+}
